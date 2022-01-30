@@ -8,9 +8,9 @@ Trades are saved into a sqlite database.
 
 There is also an analysis tool which can be run afterwards to see the results for the trade session.
 
-This project is developed for an investmen group and codebase is private. Contact efecini@gmail.com for further information.
+This project is developed for an investment group and codebase is private. Contact efecini@gmail.com for further information.
 
-An email is sent at the start of a trade session and also there is an option for receiving an informative mail for each trade.
+An email is sent at the start of a trade session and also there is an option for receiving an informative email after each trade.
 
 Some screenshots:
 
